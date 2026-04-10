@@ -25,20 +25,20 @@
 
 ## **截图**
 
-### 手机端：![2](.\image\2.jpg)
+### 手机端：![2](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/2.jpg)
 
-![1](.\image\1.jpg)
+![1](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/1.jpg)
 
 ### 电脑（管理后台）：
 
-![3](.\image\3.png)
+![3](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/3.png)
 
-![4](.\image\4.png)
+![4](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/4.png)
 
-![5](.\image\5.png)
+![5](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/5.png)
 
-![6](.\image\6.png)
+![6](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/6.png)
 
 ### Log:
 
-![7](.\image\7.png)
+![7](https://raw.githubusercontent.com/WaveMaster656/OpenFengHuo/refs/heads/main/image/7.png)
